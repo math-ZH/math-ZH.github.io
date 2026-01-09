@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "Profile"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I am a first-year doctoral student in computational mathematics at [LSEC](https://www.cc.ac.cn/), [AMSS](https://www.amss.cas.cn/), Chinese Academy of Sciences(CAS). I graduated from the [School of Mathematics and Statistics](https://math.nwpu.edu.cn/) at Northwestern Polytechnical University(NPU).
 
